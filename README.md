@@ -1,5 +1,5 @@
-[Your Project Name]
-This project is a web-based application for [your brief description of the application]. Below are the instructions for setting it up and a discussion of the development process.
+Movies List
+Below are the instructions for setting it up and a discussion of the development process.
 
 Instructions
 Running the Code
@@ -10,24 +10,24 @@ Copy code
 git clone https://github.com/harsha80956/gsiv_harshavardhan_b.git
 Navigate to the project directory:
 
-bash
+bash:
 Copy code
 cd gsiv_harshavardhan_b
 Install the required dependencies:
 
-bash
+bash:
 Copy code
 npm install
 Run the development server:
 
-bash
+bash:
 Copy code
 npm start
 Your app should now be running on http://localhost:3000/.
 
 Testing the Code
 To run the tests, execute:
-bash npm test
+bash: npm test
 
 Self-Assessment
 Proficiency Showcase
