@@ -5,23 +5,20 @@ Instructions
 Running the Code
 Clone the repository to your local machine:
 
-bash
+bash:
 Copy code
 git clone https://github.com/harsha80956/gsiv_harshavardhan_b.git
 Navigate to the project directory:
 
 bash:
-Copy code
 cd gsiv_harshavardhan_b
 Install the required dependencies:
 
 bash:
-Copy code
 npm install
 Run the development server:
 
 bash:
-Copy code
 npm start
 Your app should now be running on http://localhost:3000/.
 
